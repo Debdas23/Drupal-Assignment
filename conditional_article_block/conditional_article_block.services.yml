@@ -1,0 +1,5 @@
+services:
+  conditional_article_block.route_subscriber:
+    class: Drupal\conditional_article_block\Routing\RouteSubscriber
+    tags:
+      - { name: event_subscriber }

@@ -1,0 +1,5 @@
+system.site:
+  mapping:
+    custom_article_block_display:
+      type: boolean
+      label: 'Show Article Block'

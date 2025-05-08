@@ -1,0 +1,5 @@
+name: 'Conditional Article Block'
+type: module
+description: 'Adds a custom field to the Site Information form.'
+core_version_requirement: ^8 || ^9 || ^10
+package: Custom
